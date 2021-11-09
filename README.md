@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![ridzqiawanhammam](https://img.shields.io/badge/Ridzqiawan%20Hammam%20Saputro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridzqiawan-hammam-a56117198/)](https://www.linkedin.com/in/ridzqiawan-hammam-a56117198/)
+
+I am Back End Engineer Enthusiast. Currently learning about Go Languange.
+
+### ⚡️ Skills and Interests
+- Back End Engineer
+- Golang with Echo Framework
+- PHP with Laravel Framework
+
 <!--
 **ridzqihammam17/ridzqihammam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
