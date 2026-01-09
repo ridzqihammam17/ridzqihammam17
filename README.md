@@ -1,7 +1,7 @@
 <h2> Hello guys <img src="https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif" width="29" height="29" />, Welcome to My Repository Github </h2>
 
 
-📫 You can contact me on Linkedin <a href="https://www.linkedin.com/in/ridzqiawan-hammam-a56117198"><img src="https://img.shields.io/badge/Ridzqiawan%20Hammam%20Saputro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ridzqiawan-hammam-a56117198/" /></a>
+📫 You can contact me on Linkedin <a href="https://www.linkedin.com/in/ridzqiawan-hammam"><img src="https://img.shields.io/badge/Ridzqiawan%20Hammam%20Saputro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ridzqiawan-hammam/" /></a>
 
 🔭 I am currently working as **Software Engineer (Backend)**.
 
